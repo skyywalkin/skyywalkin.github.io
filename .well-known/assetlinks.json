@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.example.applinksexample",
+    "package_name": "com.fiserv.touchbanking",
     "sha256_cert_fingerprints":
-    ["3C:3E:1E:B3:0A:C9:71:A3:BA:A6:1E:EB:5D:01:5F:A5:FC:84:43:5B:68:A6:E1:59:D8:40:D7:6A:5F:27:6F:BB"]
+    ["F7:C0:6D:4C:C3:FC:81:AF:90:19:0B:EC:34:63:84:37:0D:1C:D4:21:4F:73:83:54:01:EB:ED:0B:C7:BA:90:C2"]
   }
 }]
