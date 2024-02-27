@@ -9,6 +9,6 @@
     ]
   },
   "webcredentials": {
-    "apps": ["your-app-id"]
+    "apps": ["com.example.apple-samplecode.Shiny"]
   }
 }
