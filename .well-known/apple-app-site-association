@@ -3,12 +3,12 @@
     "apps": [],
     "details": [
       {
-        "appID": "your-app-id",
+        "appID": "LDF4UMS2MZ.com.example.apple-samplecode.Shiny",
         "paths": ["*"]
       }
     ]
   },
   "webcredentials": {
-    "apps": ["com.example.apple-samplecode.Shiny"]
+    "apps": ["LDF4UMS2MZ.com.example.apple-samplecode.Shiny"]
   }
 }
