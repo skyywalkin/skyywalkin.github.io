@@ -3,12 +3,12 @@
     "apps": [],
     "details": [
       {
-        "appID": "LDF4UMS2MZ.com.example.apple-samplecode.LukeShiny",
+        "appID": "9C6JLQK6U6.com.example.apple-samplecode.LukeShiny",
         "paths": ["*"]
       }
     ]
   },
   "webcredentials": {
-    "apps": ["LDF4UMS2MZ.com.example.apple-samplecode.LukeShiny"]
+    "apps": ["9C6JLQK6U6.com.example.apple-samplecode.LukeShiny"]
   }
 }
