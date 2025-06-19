@@ -3,12 +3,12 @@
     "apps": [],
     "details": [
       {
-        "appID": "9C6JLQK6U6.com.example.apple-samplecode.LukeShiny",
+        "appID": "9C6JLQK6U6.com.sabre.apps.HappyHour",
         "paths": ["*"]
       }
     ]
   },
   "webcredentials": {
-    "apps": ["9C6JLQK6U6.com.example.apple-samplecode.LukeShiny"]
+    "apps": ["9C6JLQK6U6.com.sabre.apps.HappyHour"]
   }
 }
